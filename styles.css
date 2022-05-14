@@ -34,5 +34,24 @@ input {
 }
 
 img {
-	max-width: 300px;
+	max-width: 100px;
 }
+
+.profile-btns {
+cursor: pointer;
+height: 50px;
+width: 150px;
+background-color: yellow;
+margin: 5px;
+}
+
+
+.lists {
+display: flex;
+border: 3px solid black;
+margin: 30px;
+
+
+}
+
+
